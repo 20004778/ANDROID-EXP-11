@@ -317,7 +317,7 @@ public class Pyramid {
 
 </manifest>
 ```
-OUTPUT:
+## OUTPUT:
 ![W1](https://user-images.githubusercontent.com/75236145/174522901-bd356076-e651-438b-9b31-29ee9b3a9ff4.png)
 ![W2](https://user-images.githubusercontent.com/75236145/174522907-3a113a2a-1312-4873-b74a-3c11ccb8c82a.png)
 ![W3](https://user-images.githubusercontent.com/75236145/174522909-a1442da1-e400-4fc1-a619-d2a96ff36eba.png)
@@ -327,5 +327,5 @@ OUTPUT:
 
 
 
-RESULT:
+## RESULT:
 Thus a Simple Android Application to draw shapes using 3D graphics with openGL ES using Android Studio is developed and executed successfully.
